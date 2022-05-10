@@ -1,2 +1,3 @@
-#!/bin/bash 
+#!/bin/bash
+chmod u+x ./1-bring_me_home
 cd ~
